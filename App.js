@@ -32,6 +32,9 @@ const App: () => React$Node = () => {
        <Text>
          HELLO WORLD DAMIÃO CÍCERO
        </Text>
+       <Text>
+         HELLO WORLD FAGNER
+       </Text>
      </View>
     </>
   );
