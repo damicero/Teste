@@ -30,7 +30,7 @@ const App: () => React$Node = () => {
       <StatusBar barStyle="dark-content" />
      <View>
        <Text>
-         HELLO WORLD
+         HELLO WORLD DAMIÃO CÍCERO
        </Text>
      </View>
     </>
